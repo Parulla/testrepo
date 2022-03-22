@@ -1,2 +1,1 @@
-#Python saying hello
-Print("hello world")
+print ('hello from a file')
